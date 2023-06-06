@@ -1,4 +1,4 @@
-//added new repo and github actions
+//added new repo and github action(s)
 require("./db/db.js");
 const mongoose = require("mongoose");
 const express = require('express');
